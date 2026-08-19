@@ -1,0 +1,310 @@
+sector,alojamiento_formal,gastronomia_bar,vivienda_turistica,avaluo_ph_m2,total_puntos,nodo,perfil
+0,1,1,7,5503741.97,9,0-2,Turístico secundario
+ACACIAS USAQUEN,0,0,13,3900280.1625,13,0-1,"Residencial de alta renta, turismo incipiente"
+ALCAZARES,1,0,114,2453348.8403333332,115,0-0,Residencial ordinario
+ALFONSO LOPEZ,1,0,37,4450600.1899999995,38,0-2,Turístico secundario
+ANDES NORTE,0,0,4,5502180.346666667,4,0-2,Turístico secundario
+ANTIGUO COUNTRY,1,0,124,4971290.234197531,125,1-2,Foco turístico emergente
+ARMENIA,4,0,36,3398296.24,40,0-1,"Residencial de alta renta, turismo incipiente"
+ATENAS,0,0,4,3424607.84,4,0-1,"Residencial de alta renta, turismo incipiente"
+AUTOPISTA MEDELLIN,0,1,3,3398296.24,4,1-0,Residencial ordinario
+AUTOPISTA SUR,0,0,3,3239166.03,3,0-1,"Residencial de alta renta, turismo incipiente"
+BANCO CENTRAL,1,0,22,5037340.77,23,0-2,Turístico secundario
+BAQUERO,1,0,6,3226729.875,7,0-1,"Residencial de alta renta, turismo incipiente"
+BARRANCAS,0,0,5,2904987.565,5,0-1,"Residencial de alta renta, turismo incipiente"
+BATAN,0,1,29,4689800.248461539,30,0-2,Turístico secundario
+BAVARIA,0,1,3,2851384.62,4,1-0,Residencial ordinario
+BELALCAZAR,3,0,25,5246996.039090909,28,0-2,Turístico secundario
+BELEN,0,0,3,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+BELLA SUIZA,2,0,26,4530342.894347826,28,0-2,Turístico secundario
+BELLAVISTA,3,0,11,3996064.9257142856,14,0-1,"Residencial de alta renta, turismo incipiente"
+BELLAVISTA OCCIDENTAL,0,0,5,3404241.4566666665,5,0-1,"Residencial de alta renta, turismo incipiente"
+BENJAMIN HERRERA,1,0,2,5462595.38,3,0-2,Turístico secundario
+BOCHICA,1,0,2,3100110.86,3,0-1,"Residencial de alta renta, turismo incipiente"
+BOCHICA II,0,2,1,3398296.24,3,1-0,Residencial ordinario
+BOLIVIA,0,1,6,1877162.32,7,0-0,Residencial ordinario
+BONANZA,0,2,5,3398296.24,7,1-0,Residencial ordinario
+BOSQUE CALDERON,5,0,19,4586814.03,24,0-2,Turístico secundario
+BOSQUE DE MODELIA,0,0,3,2724577.0700000003,3,0-0,Residencial ordinario
+BOSQUE DE PINOS III,0,1,57,3175721.56,58,1-0,Residencial ordinario
+BOSQUE POPULAR,2,0,14,3493520.265,16,0-1,"Residencial de alta renta, turismo incipiente"
+BOYACA,1,0,4,3267248.23,5,0-1,"Residencial de alta renta, turismo incipiente"
+BRISAS ALDEA FONTIBON,0,0,5,3398296.24,5,0-1,"Residencial de alta renta, turismo incipiente"
+BRITALIA,0,2,21,2771401.1799999997,23,1-0,Residencial ordinario
+CAMPANELLA,0,0,3,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+CAMPIN,0,0,7,3467959.93,7,0-1,"Residencial de alta renta, turismo incipiente"
+CAMPIN OCCIDENTAL,4,0,25,4301332.6308695655,29,0-2,Turístico secundario
+CANTAGALLO,0,1,13,3355594.99,14,1-0,Residencial ordinario
+CAOBOS SALAZAR,0,1,20,3567520.05,21,1-0,Residencial ordinario
+CAPELLANIA,0,0,31,4030546.6025,31,0-1,"Residencial de alta renta, turismo incipiente"
+CASTILLA,0,0,4,3398296.24,4,0-1,"Residencial de alta renta, turismo incipiente"
+CATALUNA,1,0,5,4551025.64,6,0-2,Turístico secundario
+CEDRITOS,0,1,23,3282718.65,24,1-0,Residencial ordinario
+CEDRO NARVAEZ,0,0,5,3665151.9159999997,5,0-1,"Residencial de alta renta, turismo incipiente"
+CEDRO SALAZAR,0,0,12,3588012.9966666666,12,0-1,"Residencial de alta renta, turismo incipiente"
+CENTRO ADMINISTRATIVO,11,0,12,3421379.5200000005,23,1-1,Polo hotelero / negocios
+CENTRO FONTIBON,9,0,6,2696792.5399999996,15,1-1,Polo hotelero / negocios
+CENTRO NARINO,1,0,5,3106170.2883333336,6,0-1,"Residencial de alta renta, turismo incipiente"
+CHAPINERO CENTRAL,20,0,766,4180280.283869499,786,2-2,Núcleo turístico consolidado
+CHAPINERO NORTE,5,0,95,4678891.9331249995,100,1-2,Foco turístico emergente
+CHAPINERO OCCIDENTAL,6,0,69,3655087.3333333335,75,1-1,Polo hotelero / negocios
+CHICO NORTE,27,7,311,6496217.265887446,345,2-1,Polo hotelero / negocios
+CHICO NORTE II SECTOR,22,3,164,6695496.8984259255,189,2-1,Polo hotelero / negocios
+CHICO NORTE III SECTOR,6,2,258,5550060.548834952,266,1-2,Foco turístico emergente
+CIUDAD HAYUELOS,0,2,31,4359574.225769231,33,1-0,Residencial ordinario
+CIUDAD JARDIN NORTE,0,0,6,4189405.2,6,0-1,"Residencial de alta renta, turismo incipiente"
+CIUDAD KENNEDY CENTRAL,3,0,1,2493127.27,4,0-0,Residencial ordinario
+CIUDAD KENNEDY NORTE,14,0,1,3398296.24,15,1-1,Polo hotelero / negocios
+CIUDAD SALITRE NOR-ORIENTAL,3,5,10,3823239.1672727275,18,2-0,Foco turístico emergente
+CIUDAD SALITRE SUR-ORIENTAL,1,0,10,3547368.0566666666,11,0-1,"Residencial de alta renta, turismo incipiente"
+CIUDAD TECHO II,1,0,7,2552772.041428571,8,0-0,Residencial ordinario
+CIUDADELA COLSUBSIDIO,0,0,4,2554464.93,4,0-0,Residencial ordinario
+CLARET,1,0,2,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+CLUB DE LOS LAGARTOS,0,1,4,3237181.8049999997,5,1-0,Residencial ordinario
+COLOMBIA,7,0,6,3038905.042857143,13,1-1,Polo hotelero / negocios
+COMUNEROS,1,0,6,3517678.6859999998,7,0-1,"Residencial de alta renta, turismo incipiente"
+CONCEPCION NORTE,1,0,12,3398296.24,13,0-1,"Residencial de alta renta, turismo incipiente"
+COUNTRY CLUB,0,0,5,4482798.43,5,0-2,Turístico secundario
+DOCE DE OCTUBRE,0,0,4,3062507.75,4,0-1,"Residencial de alta renta, turismo incipiente"
+EDUARDO SANTOS,0,0,7,2002528.7299999997,7,0-0,Residencial ordinario
+EGIPTO,11,0,77,2354589.4822580647,88,1-1,Polo hotelero / negocios
+EL CARMEN FONTIBON,4,0,3,4996562.2524999995,7,0-2,Turístico secundario
+EL CHANCO I,0,0,7,2426377.486666667,7,0-0,Residencial ordinario
+EL CHICO,4,4,34,5184661.9775,42,2-0,Foco turístico emergente
+EL CONTADOR,0,0,17,4733700.71125,17,0-2,Turístico secundario
+EL CORTIJO,0,0,5,2603907.936666667,5,0-0,Residencial ordinario
+EL DORADO INDUSTRIAL,1,1,3,2597694.4133333336,5,0-0,Residencial ordinario
+EL ENCANTO,1,0,12,3121188.2249999996,13,0-1,"Residencial de alta renta, turismo incipiente"
+EL ENSUENO,0,3,1,2803199.84,4,1-0,Residencial ordinario
+EL GACO,1,0,6,2652027.03,7,0-0,Residencial ordinario
+EL LAUREL,1,0,5,3398296.24,6,0-1,"Residencial de alta renta, turismo incipiente"
+EL LISTON,1,0,5,2534132.58,6,0-0,Residencial ordinario
+EL MINUTO DE DIOS,0,0,4,2605787.255,4,0-0,Residencial ordinario
+EL MUELLE,0,0,3,1896384.13,3,0-0,Residencial ordinario
+EL NOGAL,2,0,11,4861887.524,13,0-2,Turístico secundario
+EL PINO,2,0,3,1948899.11,5,0-0,Residencial ordinario
+EL PLAN,0,0,10,2841561.28,10,0-0,Residencial ordinario
+EL REAL,0,1,3,2655461.91,4,1-0,Residencial ordinario
+EL RECUERDO,44,0,100,5426646.590860216,144,2-1,Polo hotelero / negocios
+EL REFUGIO,0,0,9,3336896.0579999997,9,0-1,"Residencial de alta renta, turismo incipiente"
+EL RETIRO,5,1,82,5940138.747468354,88,1-2,Foco turístico emergente
+EL ROSARIO,1,0,40,3340863.412307692,41,0-1,"Residencial de alta renta, turismo incipiente"
+EL SALITRE,5,0,10,3811255.4299999997,15,0-1,"Residencial de alta renta, turismo incipiente"
+EL TINTAL CENTRAL,0,0,21,2651964.104,21,0-0,Residencial ordinario
+EL TOBERIN,0,0,4,3512265.02,4,0-1,"Residencial de alta renta, turismo incipiente"
+EL VERGEL,2,0,3,3186858.7525,5,0-1,"Residencial de alta renta, turismo incipiente"
+EL VERGEL ORIENTAL,0,0,6,2985188.83,6,0-1,"Residencial de alta renta, turismo incipiente"
+EMAUS,6,0,5,4512169.368571429,11,0-2,Turístico secundario
+ESPARTILLAL,5,1,61,5493362.05,67,0-2,Turístico secundario
+ESTORIL,2,2,14,5886123.703636364,18,0-2,Turístico secundario
+ESTRELLA,1,1,1,3398296.24,3,1-0,Residencial ordinario
+ESTRELLA DEL NORTE,1,0,6,3594886.355,7,0-1,"Residencial de alta renta, turismo incipiente"
+FERROCAJA FONTIBON,0,0,11,5087202.494,11,0-2,Turístico secundario
+FLORENCIA,0,0,4,2762213.58,4,0-0,Residencial ordinario
+FLORIDA,0,0,4,2979192.6,4,0-1,"Residencial de alta renta, turismo incipiente"
+FLORIDA BLANCA,1,1,6,3084211.6166666667,8,1-0,Residencial ordinario
+GALAN,0,2,1,1907367.07,3,1-0,Residencial ordinario
+GALERIAS,5,1,8,4133187.235,14,1-0,Residencial ordinario
+GARCES NAVAS SUR,0,0,3,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+GILMAR,0,0,8,2515958.3,8,0-0,Residencial ordinario
+GRAN AMERICA,7,0,66,3949528.4957142854,73,1-1,Polo hotelero / negocios
+GRANADA,4,0,53,3825560.550232558,57,0-1,"Residencial de alta renta, turismo incipiente"
+GRANADA NORTE,1,0,2,6678435.0,3,0-2,Turístico secundario
+GUADALUPE,0,3,0,3398296.24,3,1-0,Residencial ordinario
+GUADUAL FONTIBON,2,0,2,1734394.9766666666,4,0-0,Residencial ordinario
+HIPOTECHO,0,0,4,3398296.24,4,0-1,"Residencial de alta renta, turismo incipiente"
+HIPOTECHO OCCIDENTAL,0,3,6,2821333.0324999997,9,1-0,Residencial ordinario
+HIPOTECHO SUR,0,0,3,2651890.96,3,0-0,Residencial ordinario
+IBERIA,0,0,3,3349666.0300000003,3,0-1,"Residencial de alta renta, turismo incipiente"
+INGEMAR,0,0,8,4102825.2999999993,8,0-1,"Residencial de alta renta, turismo incipiente"
+INGLES,0,0,16,3398296.24,16,0-1,"Residencial de alta renta, turismo incipiente"
+INTERINDUSTRIAL,0,0,4,3398296.24,4,0-1,"Residencial de alta renta, turismo incipiente"
+JARDIN BOTANICO,0,0,4,1997294.6900000002,4,0-0,Residencial ordinario
+JIMENEZ DE QUESADA,3,0,0,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+JORGE ELIECER GAITAN,0,0,7,3173732.335,7,0-1,"Residencial de alta renta, turismo incipiente"
+JORGE GAITAN CORTES,0,1,2,3312922.24,3,1-0,Residencial ordinario
+JOSE JOAQUIN VARGAS,0,0,16,3808620.1336363633,16,0-1,"Residencial de alta renta, turismo incipiente"
+JUAN XXIII,1,0,16,2698962.45,17,0-0,Residencial ordinario
+JULIO FLOREZ,0,0,22,3072559.27,22,0-1,"Residencial de alta renta, turismo incipiente"
+KASANDRA,4,0,2,3398296.24,6,0-1,"Residencial de alta renta, turismo incipiente"
+LA ALAMEDA,24,0,12,2416745.6083333334,36,1-1,Polo hotelero / negocios
+LA AURORA,0,0,5,3398296.24,5,0-1,"Residencial de alta renta, turismo incipiente"
+LA CABANA,0,0,4,3012381.935,4,0-1,"Residencial de alta renta, turismo incipiente"
+LA CABANA FONTIBON,5,1,3,2897519.1833333336,9,1-0,Residencial ordinario
+LA CABRERA,6,2,117,5875456.8149999995,125,1-2,Foco turístico emergente
+LA CALLEJA,2,0,33,6335151.120869565,35,0-2,Turístico secundario
+LA CAPUCHINA,13,0,2,3576200.63,15,1-1,Polo hotelero / negocios
+LA CAROLINA,0,0,25,3475445.273181818,25,0-1,"Residencial de alta renta, turismo incipiente"
+LA CASTELLANA,6,2,88,5442918.640000001,96,1-2,Foco turístico emergente
+LA CATEDRAL,13,2,33,3220180.557407407,48,1-1,Polo hotelero / negocios
+LA CONCORDIA,7,1,18,4190094.5719999997,26,1-1,Polo hotelero / negocios
+LA ESMERALDA,0,0,6,3398296.24,6,0-1,"Residencial de alta renta, turismo incipiente"
+LA ESPERANZA,3,0,10,2774274.566666667,13,0-0,Residencial ordinario
+LA ESPERANZA NORTE,2,1,17,4022492.7546153846,20,1-0,Residencial ordinario
+LA ESPERANZA SUR,0,0,5,3439389.31,5,0-1,"Residencial de alta renta, turismo incipiente"
+LA ESTRADA,1,2,3,2972089.8,6,1-0,Residencial ordinario
+LA ESTRADITA,0,1,2,3398296.24,3,1-0,Residencial ordinario
+LA FAVORITA,12,0,2,1995873.8585714286,14,1-1,Polo hotelero / negocios
+LA GIRALDA,1,0,2,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+LA GRANJA,1,0,4,3398296.24,5,0-1,"Residencial de alta renta, turismo incipiente"
+LA GRANJA NORTE,0,0,18,2984860.56,18,0-1,"Residencial de alta renta, turismo incipiente"
+LA MACARENA,0,0,16,3662562.696363636,16,0-1,"Residencial de alta renta, turismo incipiente"
+LA MAGDALENA,3,0,13,4424218.606666666,16,0-2,Turístico secundario
+LA MAGDALENA I,0,0,3,2327395.45,3,0-0,Residencial ordinario
+LA PATRIA,0,0,5,3398296.24,5,0-1,"Residencial de alta renta, turismo incipiente"
+LA PERSEVERANCIA,0,0,17,1738799.56,17,0-0,Residencial ordinario
+LA PRADERA,0,0,4,3398296.24,4,0-1,"Residencial de alta renta, turismo incipiente"
+LA PRADERA NORTE,2,0,8,3175371.8266666667,10,0-1,"Residencial de alta renta, turismo incipiente"
+LA SALLE,1,0,29,4642548.859166667,30,0-2,Turístico secundario
+LA SOLEDAD,7,0,27,3948434.728125,34,1-1,Polo hotelero / negocios
+LA SOLEDAD NORTE,0,0,4,2889706.4933333336,4,0-1,"Residencial de alta renta, turismo incipiente"
+LA TRINIDAD,1,0,3,2377216.12,4,0-0,Residencial ordinario
+LAGO GAITAN,5,4,31,6001482.327894737,40,2-0,Foco turístico emergente
+LAS ACACIAS,0,0,5,5213285.115,5,0-2,Turístico secundario
+LAS AGUAS,6,0,26,3198601.14125,32,1-1,Polo hotelero / negocios
+LAS AMERICAS,1,0,6,3528534.2175000003,7,0-1,"Residencial de alta renta, turismo incipiente"
+LAS BRISAS,0,0,4,3398296.24,4,0-1,"Residencial de alta renta, turismo incipiente"
+LAS CRUCES,2,0,7,2654569.0066666664,9,0-0,Residencial ordinario
+LAS DELICIAS,0,0,3,1613885.0,3,0-0,Residencial ordinario
+LAS FERIAS,0,0,15,3398296.24,15,0-1,"Residencial de alta renta, turismo incipiente"
+LAS FERIAS OCCIDENTAL,2,0,3,3348497.13,5,0-1,"Residencial de alta renta, turismo incipiente"
+LAS FLORES,3,0,1,2904025.02,4,0-1,"Residencial de alta renta, turismo incipiente"
+LAS MARGARITAS,0,0,9,3518024.4233333333,9,0-1,"Residencial de alta renta, turismo incipiente"
+LAS NIEVES,15,4,172,4252171.056351352,191,2-0,Foco turístico emergente
+LAS ORQUIDEAS,0,0,4,3398296.24,4,0-1,"Residencial de alta renta, turismo incipiente"
+LAS VILLAS,0,0,4,4842197.45,4,0-2,Turístico secundario
+LISBOA,1,1,55,6128449.5703703705,57,0-2,Turístico secundario
+LLANO GRANDE,2,0,1,2157383.51,3,0-0,Residencial ordinario
+LOS ALAMOS,1,0,6,2361647.846666666,7,0-0,Residencial ordinario
+LOS ANDES,0,0,28,3997414.4405,28,0-1,"Residencial de alta renta, turismo incipiente"
+LOS ANGELES,0,0,16,2501874.447777778,16,0-0,Residencial ordinario
+LOS CEDROS,0,1,80,4192967.5519999997,81,1-2,Foco turístico emergente
+LOS ROSALES,1,0,11,4956826.3133333335,12,0-2,Turístico secundario
+LOURDES,0,0,4,3398296.24,4,0-1,"Residencial de alta renta, turismo incipiente"
+MARANDU,0,0,5,1772703.28,5,0-0,Residencial ordinario
+MARIA CRISTINA,1,1,42,5409693.980666666,44,0-2,Turístico secundario
+MARLY,14,0,36,5220058.95,50,0-2,Turístico secundario
+MARSELLA,2,1,4,3398296.24,7,1-0,Residencial ordinario
+MAZUREN,0,2,8,2674353.2614285713,10,1-0,Residencial ordinario
+MIRANDELA,0,4,0,3398296.24,4,2-0,Foco turístico emergente
+MODELIA,4,0,22,6103227.8725,26,0-2,Turístico secundario
+MODELIA OCCIDENTAL,7,1,20,3193486.0500000003,28,1-1,Polo hotelero / negocios
+MOLINOS NORTE,3,2,165,4807666.530134228,170,1-2,Foco turístico emergente
+MONACO,0,0,26,4530983.574705882,26,0-2,Turístico secundario
+MONTEVIDEO,0,0,3,5576318.11,3,0-2,Turístico secundario
+MUEQUETA,1,0,2,3103230.045,3,0-1,"Residencial de alta renta, turismo incipiente"
+NICOLAS DE FEDERMAN,2,0,9,3950795.408333333,11,0-1,"Residencial de alta renta, turismo incipiente"
+NIZA NORTE,0,0,9,4487979.0475,9,0-2,Turístico secundario
+NIZA SUBA,0,0,3,4652558.093333334,3,0-2,Turístico secundario
+NIZA SUR,0,0,16,4814592.822222222,16,0-2,Turístico secundario
+NORMANDIA,14,4,48,4666212.0867346935,66,2-0,Foco turístico emergente
+NORMANDIA OCCIDENTAL,14,0,37,3582564.9518181817,51,1-1,Polo hotelero / negocios
+NUEVA ZELANDIA,0,0,12,4142207.9500000007,12,0-1,"Residencial de alta renta, turismo incipiente"
+NUEVO TECHO,0,0,3,2533956.48,3,0-0,Residencial ordinario
+ONCE DE NOVIEMBRE,1,0,3,3398296.24,4,0-1,"Residencial de alta renta, turismo incipiente"
+ORTEZAL,38,0,47,4951080.712051283,85,2-1,Polo hotelero / negocios
+PALERMO,3,0,13,4593401.850000001,16,0-2,Turístico secundario
+PARDO RUBIO,2,0,45,4661968.911538461,47,0-2,Turístico secundario
+PARIS GAITAN,1,1,3,2203902.15,5,0-0,Residencial ordinario
+PASADENA,0,0,11,5009645.09,11,0-2,Turístico secundario
+PAULO VI,0,1,4,3843624.77,5,1-0,Residencial ordinario
+PINOS DE LOMBARDIA,0,2,2,3398296.24,4,1-0,Residencial ordinario
+POLO CLUB,2,3,74,4459846.07,79,2-0,Foco turístico emergente
+POPULAR MODELO,0,0,9,4053629.16,9,0-1,"Residencial de alta renta, turismo incipiente"
+PORCIUNCULA,4,4,13,4806863.805,21,2-0,Foco turístico emergente
+PORTALES DEL NORTE,0,1,11,3080966.544444444,12,1-0,Residencial ordinario
+POTOSI,0,2,9,4556666.684,11,1-0,Residencial ordinario
+PRADO VERANIEGO,2,0,2,2545910.1100000003,4,0-0,Residencial ordinario
+PRADO VERANIEGO NORTE,0,0,6,3357920.8800000004,6,0-1,"Residencial de alta renta, turismo incipiente"
+PRADO VERANIEGO SUR,0,1,10,3228363.8699999996,11,1-0,Residencial ordinario
+PRIMAVERA OCCIDENTAL,0,0,4,2884340.6366666667,4,0-0,Residencial ordinario
+PROVIVIENDA,0,0,5,2821387.13,5,0-0,Residencial ordinario
+PUENTE ARANDA,1,0,4,4056865.5524999998,5,0-1,"Residencial de alta renta, turismo incipiente"
+PUENTE LARGO,0,1,21,4654147.425,22,0-2,Turístico secundario
+PUERTA DE TEJA,2,0,3,3398296.24,5,0-1,"Residencial de alta renta, turismo incipiente"
+QUESADA,4,0,55,2942930.591666667,59,1-1,Polo hotelero / negocios
+QUINTA CAMACHO,7,1,84,3581581.52375,92,1-1,Polo hotelero / negocios
+QUINTA MUTIS,0,1,4,3780603.045,5,1-0,Residencial ordinario
+QUINTA PAREDES,49,0,82,4687024.9781818185,131,2-1,Polo hotelero / negocios
+RESTREPO,2,1,2,4497112.295,5,0-2,Turístico secundario
+RESTREPO OCCIDENTAL,0,1,4,2741471.685,5,1-0,Residencial ordinario
+RICAURTE,3,0,8,2908698.643333333,11,0-1,"Residencial de alta renta, turismo incipiente"
+RINCON ALTAMAR,0,0,3,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+RINCON DE SANTA INES,0,0,3,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+RINCON DEL CHICO,4,1,197,7163316.8084482765,202,1-2,Foco turístico emergente
+RIONEGRO,0,1,5,3398296.24,6,1-0,Residencial ordinario
+SABANA DEL DORADO,0,0,3,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+SABANA GRANDE,0,0,4,1858330.39,4,0-0,Residencial ordinario
+SAGRADO CORAZON,0,0,40,4145609.5652777776,40,0-1,"Residencial de alta renta, turismo incipiente"
+SALAZAR GOMEZ,2,0,3,3398296.24,5,0-1,"Residencial de alta renta, turismo incipiente"
+SALITRE OCCIDENTAL,1,9,20,4372363.447272727,30,2-0,Foco turístico emergente
+SALITRE SUBA,0,0,3,2509795.68,3,0-0,Residencial ordinario
+SAMPER,2,0,30,3370215.1066666665,32,0-1,"Residencial de alta renta, turismo incipiente"
+SAMPER MENDOZA,0,0,5,2504960.53,5,0-0,Residencial ordinario
+SAN ANTONIO ENGATIVA,0,0,7,1792069.165,7,0-0,Residencial ordinario
+SAN ANTONIO NOROCCIDENTAL,0,1,4,2903244.0700000003,5,1-0,Residencial ordinario
+SAN ANTONIO URBANO,0,0,7,1528349.095,7,0-0,Residencial ordinario
+SAN BERNARDO,4,0,5,3398296.24,9,0-1,"Residencial de alta renta, turismo incipiente"
+SAN DIEGO,5,1,10,4277842.0385714285,16,1-0,Residencial ordinario
+SAN FELIPE,3,0,15,3799945.966666667,18,0-1,"Residencial de alta renta, turismo incipiente"
+SAN FERNANDO,0,0,3,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+SAN FERNANDO OCCIDENTAL,0,0,5,2875733.19,5,0-0,Residencial ordinario
+SAN FRANCISCO,0,1,3,3398296.24,4,1-0,Residencial ordinario
+SAN GABRIEL,0,0,3,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+SAN GABRIEL NORTE,0,1,4,3528383.84,5,1-0,Residencial ordinario
+SAN IGNACIO,0,1,15,2670830.34625,16,1-0,Residencial ordinario
+SAN ISIDRO RURAL II,0,0,5,3398296.24,5,0-1,"Residencial de alta renta, turismo incipiente"
+SAN JOAQUIN,0,1,3,2990876.19,4,1-0,Residencial ordinario
+SAN JOSE DE FONTIBON,10,0,14,2738702.59,24,1-1,Polo hotelero / negocios
+SAN JOSE DEL PRADO,0,0,8,3088954.8425000003,8,0-1,"Residencial de alta renta, turismo incipiente"
+SAN LUIS,3,0,38,5220023.812903225,41,0-2,Turístico secundario
+SAN MARTIN,0,1,179,3081556.682301587,180,1-2,Foco turístico emergente
+SAN MIGUEL,0,0,7,2964403.8975,7,0-1,"Residencial de alta renta, turismo incipiente"
+SAN PABLO BOSA,3,1,0,1540912.59,4,0-0,Residencial ordinario
+SAN PABLO JERICO,0,0,6,2696948.8,6,0-0,Residencial ordinario
+SAN PATRICIO,11,1,81,5187377.827105263,93,1-2,Foco turístico emergente
+SAN PEDRO DE LOS ROBLES,2,0,1,1806209.15,3,0-0,Residencial ordinario
+SAN VICTORINO,1,0,18,2191866.563333333,19,0-0,Residencial ordinario
+SANTA ANA OCCIDENTAL,4,5,7,4609593.015714286,16,2-0,Foco turístico emergente
+SANTA BARBARA,0,0,55,1783585.12875,55,0-0,Residencial ordinario
+SANTA BARBARA CENTRAL,5,2,82,4606192.174318182,89,1-2,Foco turístico emergente
+SANTA BARBARA OCCIDENTAL,4,1,121,5458638.175,126,1-2,Foco turístico emergente
+SANTA BARBARA ORIENTAL,7,4,156,6579014.095444445,167,2-0,Foco turístico emergente
+SANTA BIBIANA,8,3,85,4445615.725479452,96,2-0,Foco turístico emergente
+SANTA CECILIA,12,0,34,3346344.73,46,1-1,Polo hotelero / negocios
+SANTA FE,13,0,14,2032409.4323076925,27,1-1,Polo hotelero / negocios
+SANTA HELENITA,0,0,14,3298777.4425,14,0-1,"Residencial de alta renta, turismo incipiente"
+SANTA ISABEL SUR,0,0,4,2854161.6233333335,4,0-0,Residencial ordinario
+SANTA LUCIA,4,0,0,3543451.495,4,0-1,"Residencial de alta renta, turismo incipiente"
+SANTA MARIA,0,0,4,3398296.24,4,0-1,"Residencial de alta renta, turismo incipiente"
+SANTA MATILDE,1,0,2,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+SANTA ROSA,1,2,8,3634285.918,11,1-0,Residencial ordinario
+SANTA SOFIA,0,0,4,3398296.24,4,0-1,"Residencial de alta renta, turismo incipiente"
+SANTA TERESA,0,0,9,3383407.92,9,0-1,"Residencial de alta renta, turismo incipiente"
+SANTA TERESITA,3,0,6,4479904.5375,9,0-2,Turístico secundario
+SIETE DE AGOSTO,3,0,2,3971086.34,5,0-1,"Residencial de alta renta, turismo incipiente"
+SIMON BOLIVAR,0,0,4,2890611.77,4,0-1,"Residencial de alta renta, turismo incipiente"
+SOCIEGO,0,0,6,3099539.27,6,0-1,"Residencial de alta renta, turismo incipiente"
+SUBA URBANO,0,0,3,2222912.42,3,0-0,Residencial ordinario
+SUCRE,3,0,19,5343871.761578947,22,0-2,Turístico secundario
+TERMINAL DE TRANSPORTES,1,0,3,3151320.346666666,4,0-1,"Residencial de alta renta, turismo incipiente"
+TEUSAQUILLO,9,0,14,4800463.566,23,0-2,Turístico secundario
+TIBABITA,0,0,3,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+TIBABUYES,1,0,3,2396099.82,4,0-0,Residencial ordinario
+TINTALA,0,1,7,2503730.7816666667,8,0-0,Residencial ordinario
+TUNA ALTA,1,0,4,3398296.24,5,0-1,"Residencial de alta renta, turismo incipiente"
+TUNA BAJA,0,0,4,2864513.19,4,0-0,Residencial ordinario
+USAQUEN,7,1,10,5339032.3075,18,0-2,Turístico secundario
+VERACRUZ,20,0,362,4089304.4448657716,382,2-2,Núcleo turístico consolidado
+VERBENAL SAN ANTONIO,0,0,3,3398296.24,3,0-1,"Residencial de alta renta, turismo incipiente"
+VERSALLES FONTIBON,1,0,8,2006519.085,9,0-0,Residencial ordinario
+VICTORIA NORTE,0,0,8,3392188.561666667,8,0-1,"Residencial de alta renta, turismo incipiente"
+VILLA ALSACIA,0,3,11,4077996.88,14,2-0,Foco turístico emergente
+VILLA AMALIA,0,0,3,1877623.25,3,0-0,Residencial ordinario
+VILLA DEL PRADO,0,0,5,3398296.24,5,0-1,"Residencial de alta renta, turismo incipiente"
+VILLA DEL RIO,0,0,3,3535905.04,3,0-1,"Residencial de alta renta, turismo incipiente"
+VILLA LUZ,1,1,12,2555442.60125,14,0-0,Residencial ordinario
+VILLA MARIA I,0,0,3,2515592.07,3,0-0,Residencial ordinario
+VILLAS DE GRANADA I,0,1,4,3398296.24,5,1-0,Residencial ordinario
+VILLEMAR,6,0,10,3022984.3272727276,16,1-1,Polo hotelero / negocios
+VISION DE ORIENTE,10,0,0,3398296.24,10,1-1,Polo hotelero / negocios

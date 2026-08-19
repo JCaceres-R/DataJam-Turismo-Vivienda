@@ -1,0 +1,16 @@
+# Datasets crudos pesados — se descargan automáticamente al ejecutar el notebook (ver data/raw/README.md)
+data/raw/**/incidentes_nuse_c4.csv
+data/raw/**/avaluo_catastral_ph_manzana_actual.geojson
+
+# Entornos y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local de Claude Code (específica de esta máquina)
+.claude/

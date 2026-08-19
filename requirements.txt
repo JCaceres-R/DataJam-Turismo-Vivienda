@@ -7,3 +7,4 @@ odfpy
 shapely
 minisom
 scikit-learn
+scipy

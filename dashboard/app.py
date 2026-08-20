@@ -1,12 +1,3 @@
-"""
-Turismo + Vivienda en Bogotá — Dashboard
-Traduce a Streamlit los hallazgos de `notebooks/01_turismo_vivienda_analisis.ipynb`
-(H1 a H5 + extensión DBSCAN), con un layout tipo "Workforce Project Dashboard":
-franja de filtros arriba, panel de barras + gauge a la izquierda, mapa grande a
-la derecha (interactivo: click en un punto para ver su detalle), y una fila de
-tres gráficas abajo. La extensión DBSCAN y la síntesis final viven en pestañas
-adicionales.
-"""
 import sys
 from pathlib import Path
 
@@ -36,8 +27,6 @@ ORANGE = "#f97316"
 SLATE = "#1e293b"
 CARD_BG = "#161b24"
 
-# Paleta categórica (20 colores, uno por localidad) usada en H4 para poder
-# identificar cada punto por color en vez de con una etiqueta de texto encima.
 PALETTE_20 = [
     "#0ea5e9", "#f97316", "#22c55e", "#a855f7", "#eab308", "#ef4444",
     "#14b8a6", "#ec4899", "#84cc16", "#6366f1", "#f43f5e", "#06b6d4",
@@ -118,7 +107,7 @@ if not dp.datos_disponibles():
     )
 
 # ---------------------------------------------------------------------------
-# Carga de todas las hipótesis (cacheado)
+# Carga de todas las hipótesis
 # ---------------------------------------------------------------------------
 
 h1 = dp.compute_h1()
@@ -131,7 +120,7 @@ synth = dp.compute_synthesis()
 localidades_disponibles = list(h1.index)
 
 # ---------------------------------------------------------------------------
-# Encabezado + filtros (mirroring "Worker / Due Date" del dashboard de referencia)
+# Encabezado 
 # ---------------------------------------------------------------------------
 
 head_l, head_m, head_r = st.columns([3.2, 1, 1])
@@ -164,7 +153,7 @@ k4.metric("Correlación con alojamiento formal (H5)", f"ρ = {corr_h5.loc['vivie
 st.write("")
 
 # ---------------------------------------------------------------------------
-# Fila principal: (H1 barras + H2 gauge) a la izquierda, mapa grande a la derecha
+# Fila principal:
 # ---------------------------------------------------------------------------
 
 left_col, right_col = st.columns([1.05, 2.15], gap="medium")
@@ -199,7 +188,6 @@ with left_col:
         ))
         gauge.add_annotation(text=f"Corte: {corte_sel}", x=0.5, y=-0.05, showarrow=False, font=dict(color=GRAY, size=12))
         st.plotly_chart(dark_fig(gauge, height=260, legend=False, margin=dict(l=20, r=20, t=10, b=10)), use_container_width=True)
-        st.caption("Meta de lectura: > 50% sostiene H2 (mayoría fuera de la planeación oficial).")
 
 with right_col:
     with st.container(border=True):
@@ -278,7 +266,7 @@ with right_col:
             st.caption("💡 Haz click sobre un punto del mapa para ver su detalle aquí.")
 
 # ---------------------------------------------------------------------------
-# Fila inferior: H3, H4, H5
+# Fila inferior: c1,c2,c3
 # ---------------------------------------------------------------------------
 
 c1, c2, c3 = st.columns(3, gap="medium")
@@ -328,15 +316,14 @@ with c2:
             )
         leyenda_html += "</div>"
         st.markdown(leyenda_html, unsafe_allow_html=True)
-        st.caption(f"Correlación de Spearman: ρ = {corr_h4:.2f}")
 
 with c3:
     with st.container(border=True):
         st.markdown('<div class="panel-title">Grafico de correlación</div>', unsafe_allow_html=True)
         RENAME_H5 = {
-            "vivienda_turistica": "vivienda turistica",
-            "alojamiento_formal": "Alojamientos tradicionales",
-            "gastronomia_bar": "Restaurante o Bar",
+            "vivienda_turistica": "VT",
+            "alojamiento_formal": "AT",
+            "gastronomia_bar": "RoB",
         }
         corr_h5_disp = corr_h5.rename(index=RENAME_H5, columns=RENAME_H5)
         fig5 = go.Figure(go.Heatmap(
@@ -345,7 +332,11 @@ with c3:
             colorbar=dict(title="Spearman"),
         ))
         st.plotly_chart(dark_fig(fig5, height=300, legend=False), use_container_width=True)
-
+        st.caption(
+            f"RoB = Restaurantes o Bares - "
+            f"VT = Vivienda Turistica - "
+            f"AF = Alojamiento Formal"
+        )
 st.write("")
 
 # ---------------------------------------------------------------------------

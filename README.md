@@ -1,4 +1,4 @@
-# DataJam Bogotá 2026 — [Nombre del equipo]
+# DataJam Bogotá 2026 — [SIDM]
 
 > **Estado:** propuesta de tema lista para validar con el equipo completo (notebook ejecutado, resultados preliminares en `notebooks/01_turismo_vivienda_analisis.ipynb`). Pendiente de confirmación final antes de avanzar a dashboard, nota técnica y formulario.
 

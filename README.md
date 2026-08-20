@@ -51,7 +51,7 @@ pip install -r requirements.txt
 1. `notebooks/00_ideacion_seleccion_tema.ipynb` — proceso de selección de tema (histórico).
 2. `notebooks/01_turismo_vivienda_analisis.ipynb` — notebook principal. Descarga automáticamente los datasets que falten en `data/raw/turismo_vivienda/` (no requiere pasos manuales) y genera las tablas/gráficos en `data/processed/` y `outputs/`.
 3. `notebooks/01_turismo_vivienda_analisis_COLAB.ipynb` — misma versión, pero standalone para correr en Google Colab (para quien no tenga el entorno local montado): subir el archivo a [colab.research.google.com](https://colab.research.google.com) (`Archivo` → `Subir cuaderno`) y `Entorno de ejecución` → `Ejecutar todas`. No depende de tener el repo clonado.
-4. Abrir la consola
+4. Para ejecutar y visualizar el dashboard tiene que descargaste lo siguiente archivos:
 5. Ejecutar el comando "pip install -r dashboard/requirements.txt"
 6. Ejecutar el comando "python -m streamlit run dashboard\app.py"
 7. Recargar la pagina una vez se abra en el navegador si aparece la anotacion de datos sinteticos   
